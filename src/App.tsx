@@ -332,6 +332,13 @@ function App() {
                   title: "Классика кино",
                   viewers: 789,
                   host: "Мария С."
+                },
+                {
+                  time: "22:30",
+                  image: "https://images.unsplash.com/photo-1489599735734-79b4169c4388?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  title: "Документальные фильмы",
+                  viewers: 456,
+                  host: "Алексей П."
                 }
               ].map((event, i) => (
                 <div key={i} className="group scale-up" style={{ transitionDelay: `${i * 0.1}s` }}>
