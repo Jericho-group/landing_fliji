@@ -339,6 +339,20 @@ function App() {
                   title: "Документальные фильмы",
                   viewers: 456,
                   host: "Алексей П."
+                },
+                {
+                  time: "23:15",
+                  image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  title: "Ретро игры",
+                  viewers: 892,
+                  host: "Игорь М."
+                },
+                {
+                  time: "00:00",
+                  image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  title: "Ночной кинотеатр",
+                  viewers: 1234,
+                  host: "Елена К."
                 }
               ].map((event, i) => (
                 <div key={i} className="group scale-up" style={{ transitionDelay: `${i * 0.1}s` }}>
