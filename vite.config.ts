@@ -6,6 +6,7 @@ export default defineConfig({
   root: '.',
   plugins: [react()],
   build: {
+    outDir: 'build',
     rollupOptions: {}
   },
   optimizeDeps: {
