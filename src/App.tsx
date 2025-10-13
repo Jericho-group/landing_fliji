@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { Play, Film, Users, Share2, MessageCircle, Smartphone, Globe2, Heart, ArrowRight, Clock, Sparkles, Zap, Shield, Gift, Download } from 'lucide-react';
+import { Play, Film, Users, Share2, MessageCircle, Smartphone, Globe as Globe2, Heart, ArrowRight, Clock, Sparkles, Zap, Shield, Gift, Download } from 'lucide-react';
 
 function App() {
   const [likedFeatures, setLikedFeatures] = React.useState<{[key: string]: boolean}>({});
