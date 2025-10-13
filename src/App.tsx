@@ -97,7 +97,7 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
                 {
-                  image: "https://blog.potok.digital/wp-content/uploads/2023/07/video.jpg",
+                  image: "https://cdni-vm.servicecdn.ru/2020.09/original/1200_5f7486d782682c4d6c89a44b.png",
                   name: "Александр Волков",
                   followers: "2.1M подписчиков",
                   category: "Технологии"
@@ -314,7 +314,7 @@ function App() {
               {[
                 {
                   time: "19:30",
-                  image: "https://images.pexels.com/photos/7234270/pexels-photo-7234270.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://img.championat.com/s/1350x900/news/big/x/m/v-razrabotke-nahoditsya-mmorpg-po-marvel-eyo-delayut-avtory-dc-universe-online_1638099858828988442.jpg",
                   title: "Марвел Марафон",
                   viewers: 234,
                   host: "Анна К."
