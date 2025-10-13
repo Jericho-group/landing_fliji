@@ -97,7 +97,7 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
                 {
-                  image: "https://avatars.dzeninfra.ru/get-ynews/271828/940a5646211c83ce154784d4bf267d27/563x304",
+                  image: "https://blog.potok.digital/wp-content/uploads/2023/07/video.jpg",
                   name: "Александр Волков",
                   followers: "2.1M подписчиков",
                   category: "Технологии"
@@ -321,21 +321,21 @@ function App() {
                 },
                 {
                   time: "20:15",
-                  image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://www.shutterstock.com/shutterstock/videos/3432976723/thumb/1.jpg?ip=x480",
                   title: "Аниме вечер",
                   viewers: 567,
                   host: "Дмитрий В."
                 },
                 {
                   time: "21:00",
-                  image: "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://i.pinimg.com/474x/3a/9c/fa/3a9cfa99780894964a92d92cda6b35c7.jpg",
                   title: "Классика кино",
                   viewers: 789,
                   host: "Мария С."
                 },
                 {
                   time: "23:15",
-                  image: "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67aeae13e51fcf55b15d1aa3_67aeae702529682c556d75c2/scale_1200",
                   title: "Ретро игры",
                   viewers: 892,
                   host: "Игорь М."
