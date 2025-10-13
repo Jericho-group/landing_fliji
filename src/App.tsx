@@ -97,25 +97,25 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
                 {
-                  image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://avatars.dzeninfra.ru/get-ynews/271828/940a5646211c83ce154784d4bf267d27/563x304",
                   name: "Александр Волков",
                   followers: "2.1M подписчиков",
                   category: "Технологии"
                 },
                 {
-                  image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://opora.ru/site/assets/files/54789/izobrazhenie_2023-08-15_180655237.1536x1152.webp",
                   name: "Мария Светлова",
                   followers: "1.8M подписчиков",
                   category: "Лайфстайл"
                 },
                 {
-                  image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6617fdc802d8796b316c8586_6617fdd002d8796b316c8c8b/scale_1200",
                   name: "Дмитрий Черных",
                   followers: "3.2M подписчиков",
                   category: "Путешествия"
                 },
                 {
-                  image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://avatars.mds.yandex.net/i?id=4335d5d02bcff25afee2c61e52bef1b9_l-5226766-images-thumbs&n=13",
                   name: "Анна Королева",
                   followers: "1.5M подписчиков",
                   category: "Мода"
