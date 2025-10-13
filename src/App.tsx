@@ -314,28 +314,28 @@ function App() {
               {[
                 {
                   time: "19:30",
-                  image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://images.pexels.com/photos/7234270/pexels-photo-7234270.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Марвел Марафон",
                   viewers: 234,
                   host: "Анна К."
                 },
                 {
                   time: "20:15",
-                  image: "https://images.pexels.com/photos/7234270/pexels-photo-7234270.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Аниме вечер",
                   viewers: 567,
                   host: "Дмитрий В."
                 },
                 {
                   time: "21:00",
-                  image: "https://images.pexels.com/photos/436413/pexels-photo-436413.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Классика кино",
                   viewers: 789,
                   host: "Мария С."
                 },
                 {
                   time: "23:15",
-                  image: "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+                  image: "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Ретро игры",
                   viewers: 892,
                   host: "Игорь М."
