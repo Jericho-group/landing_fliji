@@ -129,13 +129,13 @@ function App() {
                     transitionDelay: `${i * 0.1}s`
                   }}
                 >
-                  <img 
+                  <img
                     src={blogger.image}
                     alt={blogger.name}
-                    className="w-full h-full object-cover relative z-10"
+                    className="w-full h-full object-cover"
                   />
-                  <div className="absolute inset-0 bg-black/80 z-20"></div>
-                  <div className="absolute inset-0 z-20">
+                  <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent"></div>
+                  <div className="absolute inset-0">
                     <div className="absolute bottom-0 left-0 right-0 p-4">
                       <div className="text-center">
                         <h3 className="text-lg font-bold mb-1">{blogger.name}</h3>
