@@ -97,25 +97,25 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
                 {
-                  image: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800",
                   name: "Александр Волков",
                   followers: "2.1M подписчиков",
                   category: "Технологии"
                 },
                 {
-                  image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=800",
                   name: "Мария Светлова",
                   followers: "1.8M подписчиков",
                   category: "Лайфстайл"
                 },
                 {
-                  image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=800",
                   name: "Дмитрий Черных",
                   followers: "3.2M подписчиков",
                   category: "Путешествия"
                 },
                 {
-                  image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=800",
                   name: "Анна Королева",
                   followers: "1.5M подписчиков",
                   category: "Мода"
@@ -314,28 +314,28 @@ function App() {
               {[
                 {
                   time: "19:30",
-                  image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Марвел Марафон",
                   viewers: 234,
                   host: "Анна К."
                 },
                 {
                   time: "20:15",
-                  image: "https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/7234270/pexels-photo-7234270.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Аниме вечер",
                   viewers: 567,
                   host: "Дмитрий В."
                 },
                 {
                   time: "21:00",
-                  image: "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/436413/pexels-photo-436413.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Классика кино",
                   viewers: 789,
                   host: "Мария С."
                 },
                 {
                   time: "23:15",
-                  image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                  image: "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
                   title: "Ретро игры",
                   viewers: 892,
                   host: "Игорь М."
