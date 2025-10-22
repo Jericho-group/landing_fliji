@@ -450,7 +450,7 @@ function App() {
               },
               {
                 title: "Правовая информация",
-                links: ["Пользовательское соглашение"],
+                links: ["Пользовательское соглашение и Политика конфиденциальности"],
                 clickable: true
               }
             ].map((section, i) => (
@@ -459,9 +459,9 @@ function App() {
                 <div className="flex flex-col space-y-4">
                   {section.links.map((link, j) => (
                     section.clickable ? (
-                      <a 
-                        key={j} 
-                        href="https://fliji.net/privacy_policy"
+                      <a
+                        key={j}
+                        href="/privacy-policy.html"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-white transition text-sm leading-relaxed"
